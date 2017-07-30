@@ -9,7 +9,7 @@ You will need a licensed version of MATLAB.
 
 ## Getting Started
 
-Download the code to <MANUAL-ANNOTATIO-ROOT>. Make sure that <MANUAL-ANNOTATIO-ROOT> is included in the matlab path, or set the current folder <MANUAL-ANNOTATIO-ROOT>. 
+Download the code to \<MANUAL-ANNOTATIO-ROOT\>. Make sure that \<MANUAL-ANNOTATIO-ROOT\> is included in the matlab path, or set the current folder \<MANUAL-ANNOTATIO-ROOT\>. 
 to start the utility type in the command console:
 ```
 ManualAnnotation
