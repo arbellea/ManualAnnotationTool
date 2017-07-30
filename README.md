@@ -59,11 +59,11 @@ ManualAnnotation
 
 ### Keyboard Shortcuts.
 
-*Ctrl + N* - Create a new cell
-*Ctrl + Up/Down Arrow* - Zoom in and out
-*Left/Right/Up/Down Arrows* - Pan the image
-*Ctrl + C* - Clear the current annotation
-*Ctrl + D* - Draw the current annotation (Used after Clear)
+* *Ctrl + N* - Create a new cell
+* *Ctrl + Up/Down Arrow* - Zoom in and out
+* *Left/Right/Up/Down Arrows* - Pan the image
+* *Ctrl + C* - Clear the current annotation
+* *Ctrl + D* - Draw the current annotation (Used after Clear)
 
 ## Authors
 
