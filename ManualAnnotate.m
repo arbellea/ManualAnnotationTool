@@ -370,7 +370,7 @@ end
             otherwise
         end
         
-        ctrNew = strcmpi(eventdata.Modifier,'command')&&strcmpi(eventdata.Key,'n');
+        ctrNew = strcmpi(eventdata.Modifier,cntrlButton)&&strcmpi(eventdata.Key,'n');
     else
         switch eventdata.Key
             case 'uparrow'
